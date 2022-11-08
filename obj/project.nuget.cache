@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kYHDfHHOoe44JxwPXeJCabkZH2zOMuUMoNaMv+QOqeYz55Ezwlv8BWnIHr+pzMw/4N/C/plAXAHtus8HLLKKqQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\aleda\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltimateClassAccessories\\UltimateClassAccessories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleda\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

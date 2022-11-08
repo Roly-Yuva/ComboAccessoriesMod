@@ -1,0 +1,3 @@
+displayName = Ultimate Class Accessories
+author = Roly Yuva
+version = 0.1
