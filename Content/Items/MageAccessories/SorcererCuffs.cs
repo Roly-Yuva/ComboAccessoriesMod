@@ -32,17 +32,17 @@ namespace UltimateClassAccessories.Items.MageAccessories
 
         public override void AddRecipes()
         {
-            Recipe recipe1 = CreateRecipe();
-            recipe1.AddIngredient(ModContent.ItemType<SorcererBand>(), 1);
-            recipe1.AddIngredient(ItemID.Shackle, 1);
-            recipe1.AddTile(TileID.TinkerersWorkbench);
-            recipe1.Register();
+            Recipe recipe = CreateRecipe();
+            recipe.AddIngredient(ModContent.ItemType<SorcererBand>(), 1);
+            recipe.AddIngredient(ItemID.Shackle, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
 
-            Recipe recipe2 = CreateRecipe();
-            recipe2.AddIngredient(ItemID.MagicCuffs, 1);
-            recipe2.AddIngredient(ItemID.SorcererEmblem, 1);
-            recipe2.AddTile(TileID.TinkerersWorkbench);
-            recipe2.Register();
+            recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.MagicCuffs, 1);
+            recipe.AddIngredient(ItemID.SorcererEmblem, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
         }
     }
 }

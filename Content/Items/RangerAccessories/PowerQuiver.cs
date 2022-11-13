@@ -34,23 +34,23 @@ namespace UltimateClassAccessories.Items.RangerAccessories
 
         public override void AddRecipes()
         {
-            Recipe recipe1 = CreateRecipe();
-            recipe1.AddIngredient(ItemID.MoltenQuiver, 1);
-            recipe1.AddIngredient(ItemID.PutridScent, 1);
-            recipe1.AddTile(TileID.TinkerersWorkbench);
-            recipe1.Register();
+            Recipe recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.MoltenQuiver, 1);
+            recipe.AddIngredient(ItemID.PutridScent, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
 
-            Recipe recipe2 = CreateRecipe();
-            recipe2.AddIngredient(ItemID.StalkersQuiver, 1);
-            recipe2.AddIngredient(ItemID.MagmaStone, 1);
-            recipe2.AddTile(TileID.TinkerersWorkbench);
-            recipe2.Register();
+            recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.StalkersQuiver, 1);
+            recipe.AddIngredient(ItemID.MagmaStone, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
 
-            Recipe recipe3 = CreateRecipe();
-            recipe3.AddIngredient(ItemID.MoltenQuiver, 1);
-            recipe3.AddIngredient(ItemID.StalkersQuiver, 1);
-            recipe3.AddTile(TileID.TinkerersWorkbench);
-            recipe3.Register();
+            recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.MoltenQuiver, 1);
+            recipe.AddIngredient(ItemID.StalkersQuiver, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
         }
     }
 }

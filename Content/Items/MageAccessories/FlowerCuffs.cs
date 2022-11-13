@@ -36,17 +36,17 @@ namespace UltimateClassAccessories.Items
 
         public override void AddRecipes()
         {
-            Recipe recipe1 = CreateRecipe();
-            recipe1.AddIngredient(ItemID.CelestialCuffs, 1);
-            recipe1.AddIngredient(ItemID.ManaFlower, 1);
-            recipe1.AddTile(TileID.TinkerersWorkbench);
-            recipe1.Register();
+            Recipe recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.CelestialCuffs, 1);
+            recipe.AddIngredient(ItemID.ManaFlower, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
 
-            Recipe recipe2 = CreateRecipe();
-            recipe2.AddIngredient(ItemID.MagnetFlower, 1);
-            recipe2.AddIngredient(ItemID.MagicCuffs, 1);
-            recipe2.AddTile(TileID.TinkerersWorkbench);
-            recipe1.Register();
+            recipe = CreateRecipe();
+            recipe.AddIngredient(ItemID.MagnetFlower, 1);
+            recipe.AddIngredient(ItemID.MagicCuffs, 1);
+            recipe.AddTile(TileID.TinkerersWorkbench);
+            recipe.Register();
         }
     }
 }
