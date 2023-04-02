@@ -9,7 +9,7 @@ namespace UltimateClassAccessories.Items.RangerAccessories
         public override void SetStaticDefaults()
         {
             DisplayName.SetDefault("Power Quiver");
-            Tooltip.SetDefault("Increases arrow damage by 15% and greatly increases arrow speed\n"
+            Tooltip.SetDefault("Increases arrow damage by 10% and greatly increases arrow speed\n"
                 + "20% chance not to consume arrows\n"
                 + "Lights wooden arrows ablaze\n"
                 + "Enemies are less likely to target you\n");

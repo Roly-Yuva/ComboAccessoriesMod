@@ -4,5 +4,5 @@ using Terraria.ModLoader;
 
 namespace UltimateClassAccessories
 {
-	public class UltimateClassAccessories : Mod { }
+	public class ComboAccessories : Mod { }
 }
