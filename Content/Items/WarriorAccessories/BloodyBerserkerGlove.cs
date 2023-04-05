@@ -1,8 +1,8 @@
-using Terraria;
+/*using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items.WarriorAccessories
+namespace ComboAccessories.Content.Items.WarriorAccessories
 {
     public class BloodyBerserkerGlove : ModItem
     {
@@ -46,4 +46,4 @@ namespace UltimateClassAccessories.Items.WarriorAccessories
             recipe.Register();
         }
     }
-}
+}*/

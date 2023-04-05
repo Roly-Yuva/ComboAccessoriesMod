@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items.SummonerAccessories
+namespace ComboAccessories.Content.Items.SummonerAccessories
 {
     public class PygmyPapyrus : ModItem
     {
@@ -18,7 +18,7 @@ namespace UltimateClassAccessories.Items.SummonerAccessories
             Item.width = 36;
             Item.height = 36;
             Item.value = 100000; // 10 gold
-            Item.rare = ItemRarityID.Yellow;
+            Item.rare = ItemRarityID.Lime;
             Item.accessory = true;
         }
 

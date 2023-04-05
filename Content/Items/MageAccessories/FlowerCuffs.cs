@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items
+namespace ComboAccessories.Content.Items.MageAccessories
 {
     public class FlowerCuffs : ModItem
     {
@@ -21,7 +21,7 @@ namespace UltimateClassAccessories.Items
             Item.width = 32;
             Item.height = 38;
             Item.value = 40000; // 4 gold
-            Item.rare = ItemRarityID.Pink;
+            Item.rare = ItemRarityID.Orange;
             Item.accessory = true;
         }
 

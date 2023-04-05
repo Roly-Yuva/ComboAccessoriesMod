@@ -1,8 +1,8 @@
-using Terraria;
+/*using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items.WarriorAccessories
+namespace ComboAccessories.Content.Items.WarriorAccessories
 {
     public class RagingInfernoGauntlet : ModItem
     {
@@ -47,4 +47,4 @@ namespace UltimateClassAccessories.Items.WarriorAccessories
             recipe.Register();
         }
     }
-}
+}*/

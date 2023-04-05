@@ -2,7 +2,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items.RangerAccessories
+namespace ComboAccessories.Content.Items.RangerAccessories
 {
     public class PowerQuiver : ModItem
     {
@@ -20,7 +20,7 @@ namespace UltimateClassAccessories.Items.RangerAccessories
             Item.width = 20;
             Item.height = 20;
             Item.value = 200000; // 20 gold
-            Item.rare = ItemRarityID.LightPurple;
+            Item.rare = ItemRarityID.Orange;
             Item.accessory = true;
         }
 

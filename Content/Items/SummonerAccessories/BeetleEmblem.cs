@@ -1,8 +1,8 @@
-using Terraria;
+/*using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items.SummonerAccessories
+namespace ComboAccessories.Content.Items.SummonerAccessories
 {
     public class BeetleEmblem : ModItem
     {
@@ -35,4 +35,4 @@ namespace UltimateClassAccessories.Items.SummonerAccessories
             recipe.Register();
         }
     }
-}
+}*/

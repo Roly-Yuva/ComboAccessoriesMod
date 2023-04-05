@@ -3,7 +3,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace UltimateClassAccessories.Items.MageAccessories
+namespace ComboAccessories.Content.Items.MageAccessories
 {
     public class SorcererBand : ModItem
     {
