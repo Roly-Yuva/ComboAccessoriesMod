@@ -1,0 +1,73 @@
+
+Mods: {
+	ComboAccessories: {
+		Items: {
+			FlowerCuffs: {
+				DisplayName: Flower Cuffs
+				Tooltip:
+					'''
+					Increases pickup range for mana stars
+					Restores mana when damaged
+					Increases maximum mana by 20
+					8% reduced mana usage
+					Automatically use mana potions when needed
+					'''
+			}
+
+			SorcererBand: {
+				DisplayName: Sorcerer Band
+				Tooltip:
+					'''
+					12% increased magic damage
+					Increases maximum mana by 20
+					Increases mana regeneration rate
+					'''
+			}
+
+			SorcererCuffs: {
+				DisplayName: Sorcerer Cuffs
+				Tooltip:
+					'''
+					12% increased magic damage
+					Increases maximum mana by 20
+					Restores mana when damaged
+					'''
+			}
+
+			PowerQuiver: {
+				DisplayName: Power Quiver
+				Tooltip:
+					'''
+					Increases arrow damage by 10% and greatly increases arrow speed
+					20% chance not to consume arrows
+					Lights wooden arrows ablaze
+					Enemies are less likely to target you
+
+					'''
+			}
+
+			PygmyPapyrus: {
+				DisplayName: Pygmy Papyrus
+				Tooltip:
+					'''
+					Increases you max number of minions by 3
+					Increases your summon damage by 15% and the knockback of your minions
+					'''
+			}
+
+			MagesCharm: {
+				DisplayName: Mage's Charm
+				Tooltip:
+					'''
+					Increases pickup range for mana stars
+					Restores mana when damaged
+					Increases maximum mana by 40
+					10% reduced mana usage
+					Automatically use mana potions when needed
+					15% increased magic damage
+					Increases mana regeneration rate
+					'''
+			}
+		}
+	}
+}

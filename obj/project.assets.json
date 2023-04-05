@@ -31,31 +31,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aleda\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/phab/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\aleda\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltimateClassAccessories\\UltimateClassAccessories.csproj",
-      "projectName": "UltimateClassAccessories",
-      "projectPath": "c:\\Users\\aleda\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltimateClassAccessories\\UltimateClassAccessories.csproj",
-      "packagesPath": "C:\\Users\\aleda\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\aleda\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltimateClassAccessories\\obj\\",
+      "projectUniqueName": "/home/phab/.local/share/Terraria/tModLoader/ModSources/ComboAccessories/ComboAccessories.csproj",
+      "projectName": "ComboAccessories",
+      "projectPath": "/home/phab/.local/share/Terraria/tModLoader/ModSources/ComboAccessories/ComboAccessories.csproj",
+      "packagesPath": "/home/phab/.nuget/packages/",
+      "outputPath": "/home/phab/.local/share/Terraria/tModLoader/ModSources/ComboAccessories/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\aleda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/phab/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -90,12 +83,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.14, 6.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

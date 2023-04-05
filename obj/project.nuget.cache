@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kYHDfHHOoe44JxwPXeJCabkZH2zOMuUMoNaMv+QOqeYz55Ezwlv8BWnIHr+pzMw/4N/C/plAXAHtus8HLLKKqQ==",
+  "dgSpecHash": "npeSsxw/ETm107GmtRwx1XUbVgpgBuLhvC4wtLgIBX8Et+Sl/Jrz6uULE3hRo6vCQzQ4N44NSyGfMW1/cBls0Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\aleda\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\UltimateClassAccessories\\UltimateClassAccessories.csproj",
+  "projectFilePath": "/home/phab/.local/share/Terraria/tModLoader/ModSources/ComboAccessories/ComboAccessories.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aleda\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+    "/home/phab/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512",
+    "/home/phab/.nuget/packages/microsoft.netcore.app.ref/6.0.14/microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "/home/phab/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.14/microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
   ],
   "logs": []
 }
